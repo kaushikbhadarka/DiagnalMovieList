@@ -6,3 +6,7 @@ I have created the app to list movies from local JSON as API with searching func
 
 (1) npm install in project's root folder
 (2) npx react-native run-android (for android)
+
+## APK
+
+- [DiagnalMovies.apk] (https://github.com/kaushikbhadarka/DiagnalMovieList/blob/master/android/app/release/DiagnalMovies.apk)
