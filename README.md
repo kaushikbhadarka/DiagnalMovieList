@@ -9,4 +9,4 @@ I have created the app to list movies from local JSON as API with searching func
 
 ## APK
 
-- [DiagnalMovies.apk] (https://github.com/kaushikbhadarka/DiagnalMovieList/blob/master/android/app/release/DiagnalMovies.apk)
+- [DiagnalMovies.apk](./android//app//release/DiagnalMovies.apk)
